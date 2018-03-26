@@ -14,4 +14,4 @@ Step 5: Edit the users.txt for the users that you would like to be annoyed. (ex.
 
 Step 6: Run AnnoyBot.py.
 
-If you have any issues seting this up, just post the the [issues](https://github.com/digitaldisarray/Annoy-Bot/issues) tab.
+If you have any issues setting this up, just post the the [issues](https://github.com/digitaldisarray/Annoy-Bot/issues) tab.
